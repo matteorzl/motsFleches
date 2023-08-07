@@ -1,6 +1,6 @@
-[![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
 
-# MotsFleches
+
+# [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) MotsFleches
 
 ## Présentation
 
