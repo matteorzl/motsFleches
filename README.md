@@ -45,17 +45,20 @@ Votre application utilisera les librairies Swing ou Java FX.
 
 Votre application devra mettre en œuvre le patron MVC afin que votre application puisse évoluer de
 différents points de vue :
-    ● Logique métier : la réutiliser pour une autre application
-    ● Modèle de données : remplacer le dictionnaire sous forme de fichier par une base de données
-    ● Remplacement de la vue Swing ou Java FX par une vue HTML/CSS
+    - Logique métier : la réutiliser pour une autre application
+    - Modèle de données : remplacer le dictionnaire sous forme de fichier par une base de données
+    - Remplacement de la vue Swing ou Java FX par une vue HTML/CSS
 
-ATTENTION :
-    ● Le développement de la vue ne sera autorisé par le professeur que dans la mesure où les parties
+### ATTENTION :
+
+    - Le développement de la vue ne sera autorisé par le professeur que dans la mesure où les parties
     modèle et contrôleur sont déjà fonctionnelles
     
-Remarques : Différences entre la vue et le modèle :
-    ● les mots disponibles dans le dictionnaire font partie du modèle de données
-    ● les mots qui apparaissent dans la grille graphique (la vue) sont une représentation visuelle d’un
+### Remarques :
+
+Différences entre la vue et le modèle :
+    - les mots disponibles dans le dictionnaire font partie du modèle de données
+    - les mots qui apparaissent dans la grille graphique (la vue) sont une représentation visuelle d’un
     tableau de données (le modèle) : la « grille visuelle » est mise à jour selon les informations
     présentes dans ce tableau de données qu’on appellera « grille virtuelle » ou « ModeleGrille ». De
     cette façon, le contrôleur peut aller chercher des données dans le modèle pour demander de
