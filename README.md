@@ -1,5 +1,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
-[![Javadoc](http://www.javadoc.io/badge2/foundation.icon/icon-sdk/javadoc.svg)](http://www.javadoc.io/doc/foundation.icon/icon-sdk)
 
 # MotsFleches
 
