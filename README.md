@@ -51,8 +51,8 @@ différents points de vue :
 
 ### ATTENTION :
 
-    - Le développement de la vue ne sera autorisé par le professeur que dans la mesure où les parties
-    modèle et contrôleur sont déjà fonctionnelles
+Le développement de la vue ne sera autorisé par le professeur que dans la mesure où les parties
+modèle et contrôleur sont déjà fonctionnelles
     
 ### Remarques :
 
